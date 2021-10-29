@@ -1,3 +1,5 @@
+// code contributed by Bharti
+
 #include<stdio.h>
 main()
 {

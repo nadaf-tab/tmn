@@ -1,3 +1,5 @@
+// code contributed by Tabasum
+
 #include<stdio.h>
 main()
 {
