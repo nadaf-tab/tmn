@@ -4,9 +4,7 @@ main()
 
 int a=23;
 int b=2;
-int c;
-
-c = a-b;
+int c=a-b;
 printf("The value for C is ":&c);
 
 }
