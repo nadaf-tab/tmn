@@ -1,4 +1,4 @@
-// code contributed by Debjit
+// code contributed by Debjit & Tabasum
 
 #include<stdio.h>
 main()
@@ -8,5 +8,7 @@ int a=23;
 int b=2;
 int c=a*b;
 printf("The value for C is ":&c);
+
+// some changes made
 
 }
