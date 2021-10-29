@@ -49,7 +49,9 @@ or
 git config --global user.name
 git config --global user.email
 
+9) to know the git commit details,
 
+git log
 
 
 
